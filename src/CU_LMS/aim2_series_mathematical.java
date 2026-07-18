@@ -15,7 +15,8 @@ public class aim2_series_mathematical {
                 System.out.print(term + " ");
             }
             System.out.println();
-            
+
+
         }
     }
 }

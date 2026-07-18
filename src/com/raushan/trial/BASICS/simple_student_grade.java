@@ -1,4 +1,4 @@
-package com.raushan.trial;
+package com.raushan.trial.BASICS;
 
 public class simple_student_grade {
     public static void main(String[] args) {

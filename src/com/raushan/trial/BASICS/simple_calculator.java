@@ -1,4 +1,4 @@
-package com.raushan.trial;
+package com.raushan.trial.BASICS;
 
 import java.util.Scanner;
 public class simple_calculator {

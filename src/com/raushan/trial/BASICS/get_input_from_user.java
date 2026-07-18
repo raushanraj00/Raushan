@@ -1,4 +1,4 @@
-package com.raushan.trial;
+package com.raushan.trial.BASICS;
 import java.util.Scanner;
 public class get_input_from_user {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.raushan.trial;
+package com.raushan.trial.BASICS;
 import java.util.Scanner;
 public class smart_calculator {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.raushan.trial;
+package com.raushan.trial.BASICS;
 
 public class if_else_statement {
     public static void main(String[] args) {

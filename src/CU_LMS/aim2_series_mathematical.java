@@ -1,3 +1,26 @@
+//package CU_LMS;
+//
+//import java.util.Scanner;
+//
+//public class aim2_series_mathematical {
+//    public static void main(String[] args) {
+//        Scanner sc = new Scanner(System.in);
+//        int q = sc.nextInt();
+//
+//        for(int que = 0; que<q ; que++){
+//            int a = sc.nextInt(); int b = sc.nextInt(); int n = sc.nextInt();
+//            int term = a;
+//            for(int i =0; i<n; i++){
+//                term += (int) Math.pow(2, i) * b;
+//                System.out.print(term + " ");
+//            }
+//            System.out.println();
+//
+//
+//        }
+//    }
+//}
+
 package CU_LMS;
 
 import java.util.Scanner;
@@ -5,18 +28,20 @@ import java.util.Scanner;
 public class aim2_series_mathematical {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.printf("Enter the Number of Query :- ");
         int q = sc.nextInt();
 
-        for(int que = 0; que<q ; que++){
-            int a = sc.nextInt(); int b = sc.nextInt(); int n = sc.nextInt();
+        for(int i =  0 ; i< q ; i++){
+            int a = sc.nextInt();
+            int b = sc.nextInt();
+            int n = sc.nextInt();
+
             int term = a;
-            for(int i =0; i<n; i++){
-                term += (int) Math.pow(2, i) * b;
+            for(int j = 0; j<n ; j++){
+                term += (int) Math.pow( 2, j) * b ;
                 System.out.print(term + " ");
             }
             System.out.println();
-
-
         }
     }
 }

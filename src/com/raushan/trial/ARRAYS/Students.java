@@ -9,7 +9,7 @@ public class Students{
         this.roll= roll;
         this.name = name;
     }
-    public static class storing_array_names {
+
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
             System.out.print("Enter No. of Students:-");
@@ -32,4 +32,3 @@ public class Students{
             }
         }
     }
-}

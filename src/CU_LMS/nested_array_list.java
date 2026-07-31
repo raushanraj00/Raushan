@@ -27,5 +27,7 @@ public class nested_array_list {
         list.add(row3);
 
         System.out.println("Array List:- "+ list);
+        System.out.println(list.get(0)); // it returns the row stored in the list ! .. starting from index 0
+        System.out.println(list.get(0).get(0)); // it returns the 1st row 1st element both stored at 0th index !
     }
 }

@@ -14,6 +14,9 @@ public class array_list_intro {
         // get Method ! :-
         System.out.println(list.get(2)); // will return the value stored at index 2 ;
 
-
+        // printing using for loop :-
+        for (int i = 0; i < list.size(); i++){
+            System.out.print(list.get(i)+" "); // to return as discrete values !
+        }
     }
 }

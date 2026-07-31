@@ -9,7 +9,11 @@ public class array_list_intro {
         list.add(34);
         list.add(56);
         System.out.println(list);
+        System.out.println(list.size());// will return the size of the list !
+
         // get Method ! :-
         System.out.println(list.get(2)); // will return the value stored at index 2 ;
+
+
     }
 }

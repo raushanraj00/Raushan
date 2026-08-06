@@ -18,6 +18,8 @@ public class EXPERIMENT_1_3 {
             }
             list.add(row) ;
         }
+        int q = sc.nextInt();
+
 
     }
 }

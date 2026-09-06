@@ -1,11 +1,14 @@
-package EXCEPTION_HANDLING.Throw_and_Throws;
 
 //Now comes one of the most important concepts.
 //
 //        throw is used when you manually want to generate an exception.
 
 // EXAMPLE "- throw new ArithmeticException("Something went wrong");
-public class demo {
+// THROW SYNTAX :_------------ throw new EXCEPTION_NAME ("MESSAGE");
+package EXCEPTION_HANDLING.Throw_and_Throws;
+
+
+public class throw_basic {
     public static void main(String[] args) {
         int age = 10;
         if(age<10){

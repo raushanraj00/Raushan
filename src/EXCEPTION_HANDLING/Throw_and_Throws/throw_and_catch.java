@@ -15,5 +15,4 @@ public class throw_and_catch {
                 System.out.println("Eligible.");
             }
         }
-
     }

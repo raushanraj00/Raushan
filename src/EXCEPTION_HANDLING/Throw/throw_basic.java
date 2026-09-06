@@ -5,7 +5,7 @@
 
 // EXAMPLE "- throw new ArithmeticException("Something went wrong");
 // THROW SYNTAX :_------------ throw new EXCEPTION_NAME ("MESSAGE");
-package EXCEPTION_HANDLING.Throw_and_Throws;
+package EXCEPTION_HANDLING.Throw;
 
 
 public class throw_basic {

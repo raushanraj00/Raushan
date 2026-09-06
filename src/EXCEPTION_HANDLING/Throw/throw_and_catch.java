@@ -1,4 +1,4 @@
-package EXCEPTION_HANDLING.Throw_and_Throws;
+package EXCEPTION_HANDLING.Throw;
 
 public class throw_and_catch {
     public static void main(String[] args) {

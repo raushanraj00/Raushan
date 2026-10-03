@@ -19,6 +19,7 @@ public class basic_tree_representation {
         preorder(root.left);
         preorder(root.right);
     }
+
     public static void inorder(node root){
         if(root == null){
             return ;

@@ -9,7 +9,6 @@ class A extends Thread{
     public void run(){
         show();
     }
-
 }
 class B extends  Thread {
     public void show(){
